@@ -6,7 +6,7 @@
 
 These are the parts you will need to assemble the incubator:
 
-#|Amount|Description|Supplier NL|Cost
+No|Amount|Description|Supplier NL|Cost
 ------------: | ------------: | :------------ | :------------ | ------------:
 1|1|Banana adapter (black)|[AlleKabels](http://www.allekabels.nl/banaan-stekker/39/1067383/banaan-chassisdeel.html)|0.60
 2|1|Banana adapter (red)|[AlleKabels](http://www.allekabels.nl/banaan-stekker/39/1067384/banaan-chassisdeel.html)|0.60
