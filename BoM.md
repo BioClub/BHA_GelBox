@@ -4,7 +4,7 @@
 
 ### Must have
 
-These are the parts you will need to assemble the incubator:
+These are the parts you will need to assemble the gelbox:
 
 No|Amount|Description|Supplier NL|Cost
 ------------: | ------------: | :------------ | :------------ | ------------:
