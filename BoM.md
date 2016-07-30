@@ -1,7 +1,5 @@
 ## Bill of Materials
 
-
-
 ### Must have
 
 These are the parts you will need to assemble the gelbox:
@@ -15,4 +13,8 @@ No|Amount|Description|Supplier NL|Cost
 5|1|3mm Acrylic sheet|[Plexiglas.nl](http://www.plexiglas.nl/)|
 6|1|Acryl glue|DIY shop|
 7|1|Platinum Wire|[Sigma Aldrich](http://www.sigmaaldrich.com/catalog/product/sigma/ep1330?lang=en&region=NL)|90.10
+
+**Alternatives**
+
+* The platinum wire can be replaced by a cheap stainless steel wire, available at fishing sport shops.
 
