@@ -9,7 +9,7 @@ No|Amount|Description|Supplier NL|Cost
 1|1|ターミナル|[Akizuki](http://akizukidenshi.com/catalog/g/gC-04364/)|0.60
 4|1|バナナプラグ付きコード|[Akizuki](http://akizukidenshi.com/catalog/g/gC-05072/)|3.85
 5|1|3mm アクリルシート|Tokyu Hands
-6|1|アクリル用ノリ|DIY shop|
+6|1|アクリル用ノリ|[Amazon](http://amzn.asia/9yvejXB)|
 7|1|白金線(ステンレスワイヤー)|[Monotaro](https://www.monotaro.com/g/00012243)|90.10
 
 **Alternatives**
